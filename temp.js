@@ -1,1 +1,1 @@
-console.log("hello Aman");
+console.log(Date.now());
